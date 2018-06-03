@@ -21,7 +21,7 @@ The goal is to utilize a kalman filter to estimate the state of a moving object 
 [image16]: ./images/h.png
 [image17]: ./images/y_radar.png
 [image18]: ./images/Hj.png
-[image19]: ./images/KF.png
+[image19]: ./images/kf.png
 [image20]: ./images/ekf.gif
 
 ![alt text][image20]
